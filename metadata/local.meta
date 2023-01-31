@@ -1,0 +1,24 @@
+[app/ui]
+version = 9.0.2
+modtime = 1675148730.474701700
+
+[app/launcher]
+version = 9.0.2
+modtime = 1675148730.501699300
+
+[props/mobile%20details]
+owner = admin
+version = 9.0.2
+modtime = 1675149801.022628800
+
+[indexes/splunkmania_demo1_idx]
+owner = admin
+version = 9.0.2
+modtime = 1675150027.298928000
+
+[views/mobile_details_dashboard]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 9.0.2
+modtime = 1675182421.130694100
